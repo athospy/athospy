@@ -1,0 +1,1 @@
+Most of my recent production work is maintained in private employer and client repositories. The public projects below are sanitized demonstrations of the architecture, integration, AI, and full-stack practices I use professionally.
